@@ -16,7 +16,7 @@ export default function Home() {
           <div className="container mx-auto px-4">
             <div className="max-w-3xl">
               <h1 className="text-4xl md:text-6xl font-bold text-primary-foreground mb-6 text-balance">
-                Grow Your Business with Data-Driven TEST  
+                Grow Your Business with Data-Driven TEST extra test  
               </h1>
               <p className="text-xl text-primary-foreground/90 mb-8 text-balance">
                 Specialized in Facebook, Instagram, and Google Ads. We create campaigns that convert prospects into
